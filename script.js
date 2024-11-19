@@ -5,6 +5,9 @@ let b = 34 - 10
 
 let variable = null
 
+let hotSauce = null
+
+
 console.log('Hello World!')
 console.log(greeting)
 console.log(a + b)
