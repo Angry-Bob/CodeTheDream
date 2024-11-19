@@ -3,7 +3,10 @@ const greeting = 'Hey there, how ya doing!'
 let a = 10
 let b = 34 - 10
 
+let variable = null
+
 let hotSauce = null
+
 
 console.log('Hello World!')
 console.log(greeting)
